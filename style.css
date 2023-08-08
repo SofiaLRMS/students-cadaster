@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+}
+
+.coluna-1 {
+    height: 250px;
+}
+
+.linha-1 {
+    height: 45px;
+    
+}
+
+.matricula {
+    height: 35px;
+}
+
+.txtMatricula {
+    height: 30px;
+    width: 75px;
+}
+
+.linha-2 {
+    height: 45px;
+}
+
+.nome {
+    height: 35px;
+}
+
+.txtNome {
+    height: 30px;
+    width: 75px;
+}
+
+.linha-3 {
+    height: 45px;
+}
+
+.email {
+    height: 35px;
+}
+
+.txtEmail {
+    height: 30px;
+    width: 75px;
+}
+
+.coluna-2 {
+
+}
