@@ -4,6 +4,7 @@
 
 .coluna-1 {
     height: 250px;
+    float: left;
 }
 
 .linha-1 {
@@ -47,5 +48,7 @@
 }
 
 .coluna-2 {
-
+   float: right;
+   display: grid;
+   justify-content: space-between;
 }
