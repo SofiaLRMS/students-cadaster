@@ -10,6 +10,7 @@
 .linha-1, .linha-2, .linha-3 {
     height: 45px;
     color: Slategray;
+    font-family: Georgia;
 }
 
 .matricula, .nome, .email {
