@@ -7,42 +7,16 @@
     float: left;
 }
 
-.linha-1 {
+.linha-1, .linha-2, .linha-3 {
     height: 45px;
     
 }
 
-.matricula {
+.matricula, .nome, .email {
     height: 35px;
 }
 
-.txtMatricula {
-    height: 30px;
-    width: 75px;
-}
-
-.linha-2 {
-    height: 45px;
-}
-
-.nome {
-    height: 35px;
-}
-
-.txtNome {
-    height: 30px;
-    width: 75px;
-}
-
-.linha-3 {
-    height: 45px;
-}
-
-.email {
-    height: 35px;
-}
-
-.txtEmail {
+.txtMatricula, .txtNome, .txtEmail {
     height: 30px;
     width: 75px;
 }
